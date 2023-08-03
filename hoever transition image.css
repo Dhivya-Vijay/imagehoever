@@ -1,0 +1,57 @@
+img{
+    height: 50vh;
+    width: 20vw;
+    position: relative;
+    margin: 20px;
+    }
+
+ #image_1{
+    display: inline-block;
+    opacity: 0.2;
+    }
+
+    
+ #image_2{
+          display: inline-block;
+          opacity: 0.2;
+    }
+
+
+ #image_3{
+          display: inline-block;
+          opacity: 0.2;
+        }
+
+
+ #image_4{
+          display: inline-block;
+          opacity: 0.2;
+         }        
+
+#image_1:hover{
+    opacity: 1;
+    box-shadow: 25px 30px 30px rgba(25, 25, 35, 0.897);
+    transform: scale(1.0);
+    border-radius: 20px;
+}
+
+#image_2:hover{
+    opacity: 1;
+    box-shadow: 25px 30px 30px rgba(25, 25, 35, 0.897);
+    transform: scale(1.0);
+    border-radius: 20px;
+}
+
+#image_3:hover{
+    opacity: 1;
+    box-shadow: 25px 30px 30px rgba(25, 25, 35, 0.897);
+    transform: scale(1.0);
+    border-radius: 20px;
+}
+
+#image_4:hover{
+    opacity: 1;
+    box-shadow: 25px 30px 30px rgba(25, 25, 35, 0.897);
+    transform: scale(1.0);
+    border-radius: 20px;
+}
